@@ -27,5 +27,3 @@ Hello! I'm Ericles, 23 years old, and I'm really into technology. Coding is my t
 <a href="http://www.github.com/ericlespiana"><img src="https://github-readme-stats.vercel.app/api?username=ericlespiana&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ericlespiana's GitHub stats" /></a>
 
 <a href="https://github.com/ericlespiana" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericlespiana&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/erpiana?1337Badge=off&UM6P=off" alt="erpiana's 42 stats"/></a>
