@@ -6,7 +6,7 @@ Software Engineer
 
 Hello! I'm Ericles, 24 years old, and I'm really into technology. Coding is my thing, and right now, I'm deep into studying at 42, one of the best software engineering schools globally. I'm exploring the world of C to grasp the basics of computing. It's a cool journey, unlocking the secrets behind how everything works in the digital realm. Excited to see where this coding adventure takes me!
 
-* ✉️  You can contact me at [pianaericles@gmail.com](mailto:pianaericles@gmail.com)
+* ✉️  You can contact me at [ericlespiana@gmail.com](mailto:pianaericles@gmail.com)
 * :calling: +55 21 973044103
 * 🤝  I'm open to collaborating on All projects
 * ⚡  I love doing stuff that sparks creativity. It's the mix of logic and creative thinking that keeps me hooked, whether in coding or other pursuits. Always up for a good challenge!
