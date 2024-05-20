@@ -4,7 +4,7 @@ Hi 👋 My name is Ericles Piana da Silva
 Software Engineer
 -----------------
 
-Hello! I'm Ericles, 23 years old, and I'm really into technology. Coding is my thing, and right now, I'm deep into studying at 42, one of the best software engineering schools globally. I'm exploring the world of C to grasp the basics of computing. It's a cool journey, unlocking the secrets behind how everything works in the digital realm. Excited to see where this coding adventure takes me!
+Hello! I'm Ericles, 24 years old, and I'm really into technology. Coding is my thing, and right now, I'm deep into studying at 42, one of the best software engineering schools globally. I'm exploring the world of C to grasp the basics of computing. It's a cool journey, unlocking the secrets behind how everything works in the digital realm. Excited to see where this coding adventure takes me!
 
 * ✉️  You can contact me at [pianaericles@gmail.com](mailto:pianaericles@gmail.com)
 * :calling: +55 21 973044103
