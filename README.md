@@ -13,7 +13,7 @@ Hello! I'm Ericles, 24 years old, and I'm really into technology. Coding is my t
 
 ### Skills
 
-<img src="https://skillicons.dev/icons?i=git,python,c,cpp,bash,linux,java,spring,mysql,react&theme=dark" style="width:25rem"/>
+<img src="https://skillicons.dev/icons?i=git,python,c,cpp,bash,linux,java,spring,mysql,react&theme=dark" style="width:32rem"/>
 
 
 ### Socials
